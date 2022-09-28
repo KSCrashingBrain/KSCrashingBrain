@@ -2,8 +2,9 @@
 My name is Luca Dolfi and I am a Blockchain Security Engineer at Kudeslki Security. I do secure code audit reviews for smart contracts, cryptography and much more.
 
 ---
-
-<img src="/image004[47].png" alt="banner" width="30%" height=auto/>
+<a href="https://kudelskisecurity.com/">
+  <img src="/image004[47].png" alt="banner" width="30%" height=auto/>
+</a>
 Luca Dolfi
 
 Blockchain Engineer
