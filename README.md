@@ -3,7 +3,7 @@ My name is Luca Dolfi and I am a Blockchain Security Engineer at Kudeslki Securi
 
 ---
 
-<img src="/image004[47].png" alt="banner" />
+<img src="/image004[47].png" alt="banner" width="30%" height=auto/>
 Luca Dolfi
 
 Blockchain Engineer
